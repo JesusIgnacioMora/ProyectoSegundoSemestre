@@ -1,4 +1,4 @@
 # Proyecto de prueba
 - Modified by: Jesús Mora
-Este fue mi primer cambio.
-segundo cambio*
+/n Este fue mi primer cambio.
+/n segundo cambio*
