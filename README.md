@@ -1,4 +1,5 @@
 # Proyecto de prueba
 - Modified by: Jesús Mora
-/n Este fue mi primer cambio.
-/n segundo cambio*
+   Este fue mi primer cambio.
+   segundo cambio*
+    No sé cómo colocar un salto de página! :(
